@@ -6,7 +6,7 @@ from mylib.visualization import plot_birth_trends
 def main():
     # Example usage of the functions in mylib
     data = load_data(
-        "/Users/liuliangcheng/Desktop/Duke/IDS_DE/jayliu_ids_de_week9/US_birth.csv"
+        "/Users/liuliangcheng/Desktop/Duke/IDS_DE/jayliu_ids_de_week9/" "US_birth.csv"
     )
     mean_births = calculate_mean(data, "births")
     median_births = calculate_median(data, "births")
