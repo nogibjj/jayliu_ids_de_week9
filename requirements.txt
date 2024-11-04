@@ -21,3 +21,4 @@ nbval==0.11.0
 
 # Jupyter notebook (optional, if needed for running the notebook locally)
 jupyterlab==4.0.6
+papermill==2.4.0
