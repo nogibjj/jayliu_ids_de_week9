@@ -1,7 +1,11 @@
+[![Python CI](https://github.com/nogibjj/jayliu_ids_de_week9/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/jayliu_ids_de_week9/actions/workflows/ci.yml)
 # Week 9 Mini Project
 
 ## Project Overview
 This project involves setting up a cloud-hosted Jupyter Notebook for data manipulation tasks using the `US_birth.csv` dataset.
+
+## Google colab link:
+https://colab.research.google.com/drive/1_4-E6Qzfre5eQdrGY8RI7-TlfcrpFIh7#scrollTo=U_eedmoKivIb
 
 ## Data Description
 - **Dataset**: U.S. birth data from 2000 to 2014.
